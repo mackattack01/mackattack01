@@ -1,7 +1,7 @@
-### Happnin Troops 🤞
+### Happnin Troops 
 
 
-**mackattack01/mackattack01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mackattack01/mackattack01** is a ✨ _special_ ✨ repository because its `README.md` 
 
 Here are some ideas to get you started:
 
